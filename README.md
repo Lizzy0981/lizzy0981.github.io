@@ -11,6 +11,8 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:lizzyfamilia@gmail.com)
 
 ---
+<img width="1920" height="4865" alt="screencapture-lizzy0981-github-io-2025-07-22-19_44_20" src="https://github.com/user-attachments/assets/16e1c090-47f0-417c-813f-3f72068289b0" />
+
 
 ## 🌟 Destacados del Portfolio
 
