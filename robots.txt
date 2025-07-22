@@ -1,0 +1,39 @@
+# robots.txt for https://lizzy0981.github.io
+# Elizabeth Díaz Familia - Data Scientist & Sustainable AI Researcher
+
+# Allow all search engines to crawl the entire site
+User-agent: *
+Allow: /
+
+# Specific directives for Google
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+# Specific directives for Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Block access to admin/development files (if any)
+Disallow: /admin/
+Disallow: /.git/
+Disallow: /node_modules/
+Disallow: /src/
+Disallow: /.env
+Disallow: /package.json
+Disallow: /package-lock.json
+
+# Allow access to CSS, JS, and image files
+Allow: /assets/css/
+Allow: /assets/js/
+Allow: /assets/images/
+Allow: /assets/fonts/
+
+# Sitemap location
+Sitemap: https://lizzy0981.github.io/sitemap.xml
+
+# Additional sitemaps for different sections
+Sitemap: https://lizzy0981.github.io/sustainable-ai-projects/sitemap.xml
+Sitemap: https://lizzy0981.github.io/data-science-projects/sitemap.xml
+Sitemap: https://lizzy0981.github.io/blog/sitemap.xml
