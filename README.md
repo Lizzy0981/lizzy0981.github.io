@@ -12,20 +12,17 @@
 
 ---
 
-
 ## 🌟 Destacados del Portfolio
 
 ### 🔬 **Sustainable AI Research**
-- 🧮 **Calculadora de Huella de Carbono para IA** - Herramienta interactiva para medir el impacto ambiental de modelos de ML
-- 🔮 **EcoPredict API** - API de predicción ecológica con IA para decisiones sostenibles
-- 📊 **EcoAI Monitor** - Plataforma de monitoreo en tiempo real para sostenibilidad en IA
+- 🧮 **Investigación en IA Sostenible** - Desarrollo de metodologías para medir impacto ambiental de modelos ML
+- 🌱 **Enfoque Científico** - Aplicación de métodos rigurosos en proyectos de sostenibilidad
+- 📊 **Herramientas Prácticas** - Creación de soluciones reales para problemas ambientales
 
-### 📊 **Data Science Sostenible**
-- 🌱 **Dashboard de Energías Renovables** - Análisis temporal de adopción de energías limpias
-- 🌬️ **Predictor de Calidad del Aire** - Modelo ML para predicción de AQI con datos en tiempo real
-- 💧 **Analizador de Huella Hídrica** - Visualización interactiva del consumo de agua industrial
-- 🌡️ **Monitor de Cambio Climático** - Sistema de análisis de tendencias y anomalías climáticas
-- 🏭 **Calculadora de Emisiones Corporativas** - Herramienta ESG para empresas
+### 📊 **Data Science Expertise**
+- 🐍 **Python & Machine Learning** - Dominio en librerías científicas y análisis de datos
+- 📈 **Análisis Estadístico** - Experiencia en procesamiento y visualización de datos
+- 🌍 **Datos Ambientales** - Especialización en datasets relacionados con sostenibilidad
 
 ### 🌐 **Web Development**
 - 📸 **Photography Portfolio** - Portfolio interactivo desarrollado con TypeScript
@@ -84,96 +81,96 @@
 
 ---
 
-## 🌍 Impacto y Métricas
+## 🌍 Enfoque y Especialización
 
-### 📈 **Proyectos Completados**
-- **15+** Proyectos de desarrollo web y análisis de datos
-- **3** Herramientas de IA sostenible funcionando
-- **10** Papers científicos planificados
-- **25,000+** kg CO2 rastreados y analizados mediante herramientas
+### 📈 **Proyectos Actuales**
+- **6+** Proyectos web completados y funcionales
+- **Especialización** en Data Science aplicada a sostenibilidad
+- **Investigación activa** en IA sostenible y impacto ambiental
+- **Metodología científica** aplicada a proyectos tecnológicos
 
-### 👥 **Alcance Comunitario**
-- **500+** Desarrolladores usando la calculadora de huella de carbono
-- **1,200+** Modelos de IA evaluados por la comunidad
-- **30%** Reducción promedio en emisiones de usuarios que aplicaron recomendaciones
+### 👥 **Impacto Profesional**
+- **Autodidacta** con constante actualización en tecnologías emergentes
+- **Enfoque único** combinando tecnología y sostenibilidad
+- **Proyectos funcionales** desplegados y accesibles públicamente
+- **Crecimiento constante** en habilidades técnicas y científicas
 
-### 🌱 **Contribución a la Sostenibilidad**
-- **Metodologías científicas** para medir impacto ambiental de IA
-- **Herramientas open-source** para democratizar el análisis ambiental
-- **Educación** sobre IA responsable y sostenible
+### 🌱 **Filosofía de Trabajo**
+- **Sostenibilidad** como eje central de todos los proyectos
+- **Código abierto** para democratizar el acceso a herramientas ambientales
+- **Metodología científica** para garantizar rigor y reproducibilidad
+- **Impacto real** medible y cuantificable en cada iniciativa
 
 ---
 
 ## 🎯 Especialización Técnica
 
 ### 🔬 **Sustainable AI Research**
-- **Carbon Footprint Assessment** para modelos de machine learning
-- **Metodologías científicas** basadas en papers peer-reviewed
-- **Optimización energética** de infraestructuras de IA
-- **ESG metrics** para reporting corporativo
+- **Metodologías científicas** para evaluación de impacto ambiental
+- **Análisis de ciclo de vida** aplicado a modelos de machine learning
+- **Optimización energética** en infraestructuras tecnológicas
+- **Desarrollo de métricas** de sostenibilidad en IA
 
 ### 📊 **Data Science Applications**
-- **Análisis de series temporales** para datos climáticos
-- **Machine Learning** aplicado a predicciones ambientales
-- **Visualización interactiva** de datos de sostenibilidad
-- **APIs de datos** ambientales en tiempo real
+- **Análisis estadístico** de datos ambientales y climáticos
+- **Visualización interactiva** de datasets complejos
+- **APIs de datos** ambientales para aplicaciones en tiempo real
+- **Machine Learning** aplicado a predicciones de sostenibilidad
 
 ### 🌐 **Full-Stack Development**
 - **Frontend moderno** con React, Vue.js, TypeScript
 - **Backend escalable** con Node.js, Python, FastAPI
-- **Databases** SQL y NoSQL optimizadas
-- **Deployment** con GitHub Pages, Vercel, AWS
+- **Databases** SQL y NoSQL optimizadas para performance
+- **Deployment** profesional con GitHub Pages, Vercel
 
 ---
 
-## 📚 Blog Científico
+## 📚 Conocimiento y Aprendizaje
 
-### 📄 **Papers Académicos**
-- 📄 **"Metodología para Medición de Huella de Carbono en Modelos de IA"** (2025)
-- 📄 **"Análisis Temporal de Adopción de Energías Renovables"** (En desarrollo)
-- 📄 **"Predicción de Calidad del Aire con Machine Learning"** (Planificado)
+### 🎓 **Formación Continua**
+- **Certificación en Data Science** (en progreso)
+- **Especialización** en sostenibilidad ambiental
+- **Actualización constante** en tecnologías emergentes
+- **Metodología científica** aplicada a proyectos tecnológicos
 
-### 💡 **Insights Técnicos**
-- 🌱 Optimización de modelos de ML para eficiencia energética
-- 📊 Mejores prácticas en visualización de datos ambientales
-- 🔧 Guías de implementación para IA sostenible
-
-### 🎓 **Tutoriales**
-- 🧮 Cómo calcular la huella de carbono de tu modelo de IA
-- 📈 Visualización de datos climáticos con D3.js
-- 🌍 Integración de APIs ambientales en tiempo real
+### 💡 **Áreas de Interés**
+- 🌱 Intersección entre tecnología y sostenibilidad
+- 📊 Análisis de datos ambientales y climáticos
+- 🔧 Desarrollo de herramientas de código abierto
+- 🌍 Impacto social positivo a través de la tecnología
 
 ---
 
-## 🏆 Reconocimientos y Logros
+## 🏆 Logros y Reconocimientos
 
 ### 📈 **Crecimiento Profesional**
-- **Evolución**: Junior Developer → Data Scientist → Sustainable AI Scientist
-- **Autodidacta**: Aprendizaje continuo y aplicación práctica
-- **Innovadora**: Primera en crear herramientas públicas de IA sostenible en Latinoamérica
+- **Evolución técnica**: De Junior Developer a Data Scientist especializada
+- **Enfoque único**: Primera en combinar Data Science con sostenibilidad en mi región
+- **Proyectos funcionales**: Portfolio con aplicaciones reales desplegadas
+- **Metodología rigurosa**: Aplicación de estándares científicos en desarrollo
 
-### 🌟 **Contribuciones Únicas**
-- **Pioneering work** en IA sostenible con metodología científica
-- **Open science approach** con código y datos públicos
-- **Bilingual content** para máximo alcance (ES/EN)
-- **Practical impact** con herramientas que generan cambio real
+### 🌟 **Contribuciones Distintivas**
+- **Código abierto** con enfoque en sostenibilidad ambiental
+- **Documentación completa** en proyectos para facilitar reproducibilidad
+- **Enfoque bilingüe** (ES/EN) para máximo alcance e impacto
+- **Aplicación práctica** de conceptos teóricos en herramientas reales
 
 ---
 
 ## 🤝 Colaboración y Contacto
 
-### 💼 **Servicios Disponibles**
-- **Consultoría** en IA sostenible y análisis de impacto ambiental
-- **Desarrollo** de herramientas personalizadas para sostenibilidad
-- **Research** colaborativo en proyectos académicos
-- **Workshops** y formación en IA responsable
+### 💼 **Áreas de Colaboración**
+- **Consultoría** en proyectos de Data Science con enfoque ambiental
+- **Desarrollo** de aplicaciones web modernas y responsive
+- **Investigación** colaborativa en sostenibilidad e IA
+- **Mentoría** en desarrollo profesional y tecnologías emergentes
 
-### 📞 **¿Listo para Colaborar?**
+### 📞 **¿Interesado en Colaborar?**
 Estoy abierta a:
-- 🔬 **Proyectos de investigación** en IA sostenible
-- 🏢 **Consultoría empresarial** en ESG y sostenibilidad
-- 🎓 **Colaboraciones académicas** con universidades
-- 💡 **Desarrollo de productos** innovadores verdes
+- 🔬 **Proyectos de investigación** aplicada en sostenibilidad
+- 🏢 **Desarrollo de herramientas** personalizadas para empresas
+- 🎓 **Colaboraciones académicas** con universidades e instituciones
+- 💡 **Iniciativas innovadoras** que generen impacto ambiental positivo
 
 ---
 
@@ -190,11 +187,11 @@ Estoy abierta a:
 
 ---
 
-## 🌱 Filosofía de Trabajo
+## 🌱 Filosofía Personal
 
-> *"La tecnología debe ser una fuerza para el bien. Mi misión es asegurar que la revolución de la IA contribuya a un futuro más sostenible para todos."*
+> *"La tecnología debe ser una fuerza para el bien. Mi objetivo es crear herramientas que no solo resuelvan problemas técnicos, sino que contribuyan a un futuro más sostenible."*
 
-> *"Technology should be a force for good. My mission is to ensure that the AI revolution contributes to a more sustainable future for everyone."*
+> *"Technology should be a force for good. My goal is to create tools that not only solve technical problems but contribute to a more sustainable future."*
 
 ---
 
@@ -212,7 +209,7 @@ Estoy abierta a:
 
 **Desarrollado con 💚 para un futuro sostenible**
 
-*"Construyendo el puente entre la innovación tecnológica y la responsabilidad ambiental"*
+*"Construyendo puentes entre la innovación tecnológica y la responsabilidad ambiental"*
 
 © 2025 Elizabeth Díaz Familia | Made with 💜
 
