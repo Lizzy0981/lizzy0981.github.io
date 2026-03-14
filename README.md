@@ -2,7 +2,7 @@
 
 ### 🌱 Sustainable AI Scientist · 📊 AI Data Scientist · 💡 Sustainable Intelligence & BI
 
-Científica de datos y desarrolladora de República Dominicana. Me especializo en medir el impacto ambiental de la inteligencia artificial — carbono, energía, agua, residuos electrónicos y minerales críticos. Trabajo con datos reales, fuentes oficiales y código abierto.
+científica de datos y desarrolladora apasionada por construir herramientas útiles con código y datos. Me muevo entre el análisis, la visualización y el desarrollo de aplicaciones sostenibles.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-lizzy0981.github.io-4ade80?style=flat-square)](https://lizzy0981.github.io)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-eli--familia-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eli-familia/)
