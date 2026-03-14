@@ -17,9 +17,9 @@ const About: FC = () => {
 
       <div className="sobre-mi__content" data-aos="fade-up" data-aos-delay="400">
         <p className="sobre-mi__text">
-          Soy Elizabeth, científica de datos y desarrolladora apasionada por construir cosas útiles
-          con código y datos. Me muevo entre el análisis, la visualización y el desarrollo de
-          aplicaciones web.
+          Soy Elizabeth, científica de datos y desarrolladora apasionada por construir herramientas útiles
+          con código y datos. Me muevo entre el análisis, la visualización y el desarrollo de aplicaciones
+          sostenibles.
         </p>
         <p className="sobre-mi__text" style={{ marginTop: '1rem' }}>
           Últimamente me he interesado en el tema de la sostenibilidad en la IA — leo mucho sobre
