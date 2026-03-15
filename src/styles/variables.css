@@ -1,0 +1,18 @@
+:root {
+  --color-blanco: #ffffff;
+  --raleway: "Raleway", sans-serif;
+  --color-dark: #00204a;
+  --line-color: #faf5e4;
+  --color-text: #faf5e4;
+  --background-nav: #C04848;
+  --background-light: #fdb44b;
+  --color-banner-title: #dfd3c3;
+  --color-text-btn: #C04848;
+  --color-background-btn-primary: #C04848;
+  --card-color: #eaf6f6;
+  --color-warning: #ff0000;
+  --background-form: #ffe79a;
+  --background-footer: #480048;
+  --color-title-section: #455d7a;
+}
+
