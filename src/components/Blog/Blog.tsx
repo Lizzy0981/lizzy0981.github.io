@@ -17,8 +17,8 @@ const Blog: FC = () => {
   const posts: BlogPost[] = [
     {
       icon: '🌍',
-      title: 'Por qué entrenar GPT-4 contamina 100× más que Claude',
-      description: 'Análisis comparativo de emisiones de CO₂ entre los principales modelos de IA, con datos verificados de fuentes oficiales.',
+      title: 'Por ',
+      description: 'Análisis ',
       category: 'Green AI',
       date: 'Próximamente',
       published: false,
@@ -26,8 +26,8 @@ const Blog: FC = () => {
     },
     {
       icon: '💧',
-      title: 'El agua que consume la IA: datos que nadie te cuenta',
-      description: 'Cada consulta a ChatGPT consume agua real. Aquí los números detrás del consumo hídrico de los centros de datos.',
+      title: 'El ',
+      description: 'Cada ',
       category: 'Green AI',
       date: 'Próximamente',
       published: false,
@@ -35,8 +35,8 @@ const Blog: FC = () => {
     },
     {
       icon: '📊',
-      title: 'Cómo medir la huella de carbono de tu modelo de ML',
-      description: 'Tutorial práctico usando CodeCarbon y la metodología Díaz Familia (2026) para calcular el impacto ambiental.',
+      title: 'Cómo ',
+      description: 'Tutorial ',
       category: 'Tutorial',
       date: 'Próximamente',
       published: false,
@@ -44,8 +44,8 @@ const Blog: FC = () => {
     },
     {
       icon: '⚡',
-      title: 'DeepSeek-R1: rendimiento similar, 96% menos emisiones',
-      description: 'Un análisis técnico de por qué la arquitectura de DeepSeek-R1 logra resultados comparables a GPT-4o con una fracción del costo energético.',
+      title: 'Deep',
+      description: 'Un ',
       category: 'Análisis',
       date: 'Próximamente',
       published: false,
@@ -53,8 +53,8 @@ const Blog: FC = () => {
     },
     {
       icon: '🔬',
-      title: 'Metodología científica para evaluar impacto ambiental de IA',
-      description: 'Cómo construí la metodología del paper: fuentes, fórmulas, validación y los errores que cometí en el camino.',
+      title: 'Meto',
+      description: 'Cómo ',
       category: 'Research',
       date: 'Próximamente',
       published: false,
@@ -62,8 +62,8 @@ const Blog: FC = () => {
     },
     {
       icon: '🏢',
-      title: 'ESG y IA: métricas que las empresas deben reportar',
-      description: 'Guía práctica para equipos de compliance sobre qué métricas de impacto de IA incluir en reportes ESG.',
+      title: 'ESG ',
+      description: 'Guía .',
       category: 'ESG',
       date: 'Próximamente',
       published: false,
